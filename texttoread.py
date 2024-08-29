@@ -18,7 +18,7 @@ def main():
 
     data = read_json_file(json_file_path)
 
-    formatted_report = format_health_data(data['text'])
+    formatted_report = format_health_data(data['content'])
 
     print(formatted_report)
 

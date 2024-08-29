@@ -1,7 +1,14 @@
 import requests
 import json
+from dotenv import load_dotenv
+import os
 
-API_KEY = "AIzaSyBQwHJ0DJIwsl2qGDI2WVvM73F_koDuxuI"
+
+load_dotenv()
+
+
+API_KEY = os.getenv('API_KEY')
+
 url = f"https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key={API_KEY}"
 
 headers = {
