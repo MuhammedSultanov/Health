@@ -1,0 +1,39 @@
+{
+    "candidates": [
+        {
+            "content": {
+                "parts": [
+                    {
+                        "text": "**Activity Levels**\n\n* **Steps taken:**\n    * Average 7,000 steps per day\n    * Consistent increase in daily steps\n* **Active minutes:**\n    * Average 60 active minutes per day\n    * Includes a mix of brisk walking, jogging, and strength training\n* **Sedentary time:**\n    * Average 6 hours per day\n    * Goal to reduce sedentary time by 30 minutes per day\n\n**Sleep Patterns**\n\n* **Average sleep duration:**\n    * 7.5 hours per night\n    * Consistent sleep schedule\n* **Sleep quality:**\n    * Generally good sleep quality\n    * Occasional interruptions due to work stress\n* **Wake-up time:**\n    * 6:00 AM on weekdays, 7:00 AM on weekends\n\n**Dietary Habits**\n\n* **Calorie intake:**\n    * Average 1,800 calories per day\n    * Aiming to maintain a healthy weight\n* **Macronutrient distribution:**\n    * Carbohydrates: 50%\n    * Protein: 25%\n    * Fat: 25%\n* **Hydration:**\n    * 8 glasses of water per day\n\n**Other Relevant Metrics**\n\n* **Weight:** 140 lbs\n* **Body fat percentage:** 20%\n* **Blood pressure:** 120/80 mmHg\n* **Cholesterol levels:** Within healthy range\n\n**Trends and Insights**\n\n* **Activity levels:** Activity levels have been increasing steadily, indicating a commitment to physical fitness.\n* **Sleep patterns:** Consistent sleep schedule and adequate sleep duration contribute to good sleep quality.\n* **Dietary habits:** Calorie intake and macronutrient distribution are in alignment with health goals. Hydration could be improved slightly.\n* **Overall:** The data suggests a generally healthy lifestyle with some areas for improvement."
+                    }
+                ],
+                "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0,
+            "safetyRatings": [
+                {
+                    "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                    "probability": "NEGLIGIBLE"
+                },
+                {
+                    "category": "HARM_CATEGORY_HATE_SPEECH",
+                    "probability": "NEGLIGIBLE"
+                },
+                {
+                    "category": "HARM_CATEGORY_HARASSMENT",
+                    "probability": "NEGLIGIBLE"
+                },
+                {
+                    "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                    "probability": "NEGLIGIBLE"
+                }
+            ]
+        }
+    ],
+    "usageMetadata": {
+        "promptTokenCount": 98,
+        "candidatesTokenCount": 401,
+        "totalTokenCount": 499
+    }
+}
